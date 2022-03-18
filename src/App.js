@@ -20,9 +20,9 @@ function App() {
       <table border="1">
         <thead>
           <tr>
-            <th>Código.</th>
-            <th>Descripción.</th>
-            <th>Precio.</th>
+            <th>Código</th>
+            <th>Descripción</th>
+            <th>Precio</th>
           </tr>
         </thead>
         <tbody>
