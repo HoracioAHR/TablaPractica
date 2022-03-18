@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TablaPractica/static/css/main.073c9b0a.css",
+    "main.js": "/TablaPractica/static/js/main.3b139274.js",
+    "static/js/787.6aed4237.chunk.js": "/TablaPractica/static/js/787.6aed4237.chunk.js",
+    "index.html": "/TablaPractica/index.html",
+    "main.073c9b0a.css.map": "/TablaPractica/static/css/main.073c9b0a.css.map",
+    "main.3b139274.js.map": "/TablaPractica/static/js/main.3b139274.js.map",
+    "787.6aed4237.chunk.js.map": "/TablaPractica/static/js/787.6aed4237.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3b139274.js"
+  ]
+}
