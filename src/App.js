@@ -22,7 +22,7 @@ function App() {
           <tr>
             <th>Código</th>
             <th>Descripción</th>
-            <th>Precio.</th>
+            <th>Precio</th>
           </tr>
         </thead>
         <tbody>
